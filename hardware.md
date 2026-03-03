@@ -6,8 +6,10 @@ This project requires the following hardware in order to work:
 - Breadboard
 - switch
 
+<br>
 
+<img width="560" height="1500" alt="components_of_dino" src="https://github.com/user-attachments/assets/dca4714b-95e7-4206-b040-cc16f55ec908" />
 
+<br>
 
-
-<img width="720" height="582" alt="Screenshot 2026-03-03 210718" src="https://github.com/user-attachments/assets/b53e4fac-1307-448e-b11f-9d5cb611327d" />
+and for [connections table](connections.md)
