@@ -1,5 +1,5 @@
 # Dino-Game-ESP32
-<p align="center"><img alt="Dino logo" src="" width="300"></p>
+<p align="center"><img alt="Dino logo" src="IMG_5035 (1).PNG" width="650"></p>
 <p align="center">
   <b> Dino running game using ESP32 </b>
   <br><br>
